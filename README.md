@@ -1,4 +1,4 @@
-# Raydium Sniper(Geyser Mode)
+# Raydium Sniper(Yellowstone gRPC)
 
 You can snipe and trade tokens on raydium with geyser.
 
